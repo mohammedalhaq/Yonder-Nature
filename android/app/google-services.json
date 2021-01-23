@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658465491310",
+    "firebase_url": "https://yonder-9b121.firebaseio.com",
+    "project_id": "yonder-9b121",
+    "storage_bucket": "yonder-9b121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658465491310:android:27095418c1e54cfc11197f",
+        "android_client_info": {
+          "package_name": "com.example.Yonder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658465491310-d1qvvv13a3685fe9rmdbo78u5n6llkg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3gaNp93WY-pFCeAZg-XXHYa2mSxAQyKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658465491310-d1qvvv13a3685fe9rmdbo78u5n6llkg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
